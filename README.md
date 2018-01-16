@@ -1,0 +1,2 @@
+# ERCTokenDesign
+write for fun
